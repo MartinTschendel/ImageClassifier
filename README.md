@@ -8,6 +8,7 @@ Final model
 * consists of a convolutional neural network with 3 blocks
 * applies image data augmentation
 * uses 'adam' for the optimzier (stochastic gradient descent)<br>
+
 Blue lines refer to training set<br>
 Orange lines refer to test set<br>
 <img src="https://github.com/MartinTschendel/ImageClassifier/blob/main/line_charts.PNG" width="400">
